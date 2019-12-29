@@ -1,5 +1,5 @@
 {
-  "name": "typedoc-neo-theme",
+  "name": "@acao/typedoc-neo-theme",
   "description": "Improved theme for Typedoc",
   "version": "1.0.4",
   "main": "index.js",
